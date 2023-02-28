@@ -36,5 +36,6 @@ DB аппарата должна включать:
 - Category
   - CategoryID
   - name
-  - parentCategory  
+  - parentCategory
+
 P.S таблица с составляющими для напитков
