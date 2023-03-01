@@ -39,3 +39,7 @@ DB аппарата должна включать:
   - parentCategory
 
 (таблица с составляющими для напитков)
+
+
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers tags lightbox&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1TO40At75Du-_QEwryULpeuAFC_8_mClj&amp;export=download&quot;}"></div>
+<script type="text/javascript" src="https://viewer.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1TO40At75Du-_QEwryULpeuAFC_8_mClj%26export%3Ddownload"></script>
