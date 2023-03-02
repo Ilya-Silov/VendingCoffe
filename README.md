@@ -23,15 +23,13 @@ DB аппарата должна включать:
 ### Etities
 - Sale
   - id
-  - datetime
-  - product
+  - sale_date
+  - product_id
 - Product
   - id
   - name
   - description
-  - compound
-  - price_id
-  - group_id
+  - category_id
 - Price
   - id
   - price
