@@ -40,7 +40,7 @@ DB аппарата должна включать:
   - name
   - parent_category_id
 - Constituence (trigger на добавление в таблицу с покупками на удаление из кол-ва)
-  - const_id
+  - id
   - const_name
   - amount
 - Compound
