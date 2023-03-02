@@ -32,8 +32,9 @@ DB аппарата должна включать:
   - category_id
 - Price
   - id
+  - product_id
   - price
-  - datestart
+  - date_start
 - Category
   - id
   - name
