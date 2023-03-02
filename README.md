@@ -44,7 +44,7 @@ DB аппарата должна включать:
   - id
   - const_name
   - amount
-- Compound
+- Compound (подумать как считать кол-во разных типов составляющих)
   - product_id
   - constituence_id
   - amount_of_constituence
