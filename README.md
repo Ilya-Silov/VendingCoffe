@@ -46,6 +46,6 @@ DB аппарата должна включать:
 - Compound
   - product_id
   - constituence_id
-(таблица с составляющими для напитков)
+  - amount_of_constituence
 
 
