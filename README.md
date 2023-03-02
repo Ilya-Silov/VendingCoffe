@@ -41,7 +41,7 @@ DB аппарата должна включать:
   - parent_category_id
 - Constituence (trigger на добавление в таблицу с покупками на удаление из кол-ва)
   - id
-  - const_name
+  - name
   - amount
 - Compound (подумать как считать кол-во разных типов составляющих)
   - product_id
