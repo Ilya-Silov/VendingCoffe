@@ -21,23 +21,31 @@ DB аппарата должна включать:
 ## Etities
 ### Local
 - Sale
-    - datetime
-    - product
+  - id
+  - datetime
+  - product
 - Product
+  - id
   - name
   - description
   - compound
-  - priceID
-  - GroupID
+  - price_id
+  - group_id
 - Price
-  - priceID
+  - id
   - price
   - datestart
 - Category
-  - CategoryID
+  - id
   - name
-  - parentCategory
-
+  - parent_category_id
+- Constituence (trigger на добавление в таблицу с покупками на удаление из кол-ва)
+  - const_id
+  - const_name
+  - amount
+- Compound
+  - product_id
+  - constituence_id
 (таблица с составляющими для напитков)
 
 
