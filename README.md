@@ -49,4 +49,5 @@ DB аппарата должна включать:
   - constituence_id
   - amount_of_constituence
 
-
+## Server
+### Entities
