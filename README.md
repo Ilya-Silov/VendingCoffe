@@ -1,4 +1,6 @@
 # VendingCoffe
+## ERD
+[link](https://drive.google.com/file/d/1UbtcCzcZ0I9amBtvT_MpCxmbnjBDC2yh/view?usp=sharing)
 ## Discription
 В качестве предметной области выбраны аппараты по разливу горячих напитков 
 программа подразумевает наличия общей базы данных(бд) на сервере и локальной бд на каждом аппарате  
